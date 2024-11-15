@@ -10,7 +10,11 @@
     },
     "autoload": {
         "psr-4": {
-            "Cradeq\\CommonMark\\BreakTagExtension\\": "src/",
+            "Cradeq\\CommonMark\\BreakTagExtension\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
             "Cradeq\\CommonMark\\BreakTagExtension\\Tests\\": "tests/"
         }
     }
