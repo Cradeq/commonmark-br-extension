@@ -11,7 +11,7 @@
     "autoload": {
         "psr-4": {
             "Cradeq\\CommonMark\\BreakTagExtension\\": "src/",
-            "Cradeq\\CommonMark\\BreakTagExtension\\Tests": "tests/"
+            "Cradeq\\CommonMark\\BreakTagExtension\\Tests\\": "tests/"
         }
     }
 }

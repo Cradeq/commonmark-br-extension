@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace Cradeq\CommonMark\BreakTagExtension;
 
 use League\CommonMark\Environment\EnvironmentBuilderInterface;
