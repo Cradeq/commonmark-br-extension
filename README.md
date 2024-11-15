@@ -5,7 +5,7 @@ This package allows break tags (`<br>`, `<br/>`, `<br />`) to be used in Markdow
 ## Install
 This project can be installed via composer:
 
-`composer require cradeq/commanmark-br-extension`
+`composer require cradeq/commonmark-br-extension`
 
 ## Usage
 ```php
