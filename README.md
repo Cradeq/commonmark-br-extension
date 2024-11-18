@@ -1,6 +1,6 @@
 ## CommonMark Break Tag Extension
 
-This package allows break tags (`<br>`, `<br/>`, `<br />`) to be used in Markdown, while still escaping or stripping all other HTML input.
+This package allows HTML break tags (`<br>`, `<br/>`, `<br />`) to be used in Markdown, while still escaping or stripping all other HTML input.
 
 ## Install
 This project can be installed via composer:
