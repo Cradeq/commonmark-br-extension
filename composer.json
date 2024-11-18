@@ -1,5 +1,9 @@
 {
     "name": "cradeq/commonmark-br-extension",
+    "type": "commonmark-extension",
+    "description": "Allows break tags (<br>) to be used in Markdown, while still escaping or stripping all other HTML input.",
+    "keywords": ["commonmark", "markdown", "extension", "break"],
+    "homepage": "https://github.com/Cradeq/commonmark-br-extension",
     "license": "MIT",
     "require": {
         "php": "^8.3",
