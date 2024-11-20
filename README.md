@@ -13,6 +13,7 @@ use Cradeq\CommonMark\BreakTagExtension;
 use League\CommonMark\Environment\Environment;
 use League\CommonMark\Extension\CommonMark\CommonMarkCoreExtension;
 
+$environment = new Environment($config);
 $environment->addExtension(new CommonMarkCoreExtension);
 $environment->addExtension(new BreakTagExtension);
 ```
